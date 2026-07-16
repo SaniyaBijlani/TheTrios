@@ -1,2 +1,2 @@
 # TheTrios
-created to manage the workfloe during ideaforge hackathon
+created to manage the workflow during ideaforge hackathon
